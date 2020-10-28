@@ -1,0 +1,50 @@
+
+	PROVA SA INFORMÁTICA
+	
+	1 - A utilização de um framework deve acontecer no desenvolvimento de aplicações
+	complexas que exigem segurança, organização dos ativos de programação e curto prazo para
+	construção. Digamos que fomos contratados para desenvolver um sistema que deve ser entregue no prazo
+	de 30 dias e que tenha algumas características como autenticação controlada por meio de sessão ou token, 
+	protocolo e envios de email, acesso a banco de dados, API's externadas por várias rotas e logs de sistema. 
+	Para realização de algumas dessas tarefas é necessário que haja interpretação e implementação de alguns 
+	serviços e protocolos como envio de email e autenticação por exemplo. Com certeza a construção e testes dessa
+	base de funcionalidades e serviços seria uma tarefa árdua onde muito tempo seria gasto sem falar na quantidade
+	de problemas e bugs que isso poderia acarretar. Dependendo do projeto poderíamos dizer que essa parte 
+	seria mais onerosa que as funcionalidades principais que fomos contratados para desenvolver.
+	Com a utilização de um framework, não seria necessário a construção de uma aplicação do "zero", podemos
+	optar por focar no que realmente interessa para nossa aplicação, onde teremos um ambiente seguro, organizado,
+	confiável, estável, padronizado e produtivo.
+	
+	Por outro lado um framework pode ser muito mais do que você realmente precisa, pode tornar as coisas
+	muito complexas quando algo não é previsto pela plataforma e pode comprometer o desempenho da sua aplicação
+	se for o caso de um sistema	com alta exigencia de processamento. Suponhamos que fomos contratados para
+	desenvolver um sistema que se resume em cálculos complexos em uma grande camada de dados, e esse
+	sistema será utilizado em algum dispositivo que dispõe de pouca capacidade de armazenamento e processamento.
+	A escolha pela utilização de algum framework poderia ser um "tiro no pé" uma vez que quando se opta pela utilização 
+	de um framework	você carrega tudo que ele proporciona podendo gerar sobrecarga, os módulos são pré programados o'que não permite
+	ou pode se tornar muito complexo a otimização de alguma tarefa por exemplo.
+	
+	Então antes de decidir pelo uso de um framework deve se pensar bem, quais as condições do sistema, seus requisitos,
+	onde ele será hospedado e armazenado, quais as condições da mão de obra da sua empresa ou seu negócio e até o 
+	mercado na sua cidade ou região, se você não conseguir profissionais que trabalham com a tecnologia escolhida
+	pode ser um grande problema em caso de rotatividade dos funcionários por exemplo.
+
+
+	2 - Bootstrap é o framework CSS que tenho mais afinidade e familiaridade. No inicio 
+	da minha carreira decidi que queria trabalhar com Web, no processo de aprendizado logo 
+	conheci o Bootstrap criado e mantido pelo Twitter é o framework mais comitado no GitHub, por isso sua utilização 
+	é fortemente indicada, uma vez que se tem uma comunidade ativa e conta sempre com atualizações e otimizações, sua documentação é muito farta e 
+	de fácil acesso e entendimento. Achei incrível a ideia de ter modelos de componentes prontos para utilização com fácil customização.
+	Desde então utilizo o Bootstrap, já me aventurei por outras ferramentas do mesmo tipo (Bulma, Material-UI, Primefaces, Semantic-UI, Onsen-UI)
+	mas continuo acreditando muito no Bootstrap, o mercado de tecnologia quase sempre exige a tecnologia e diria
+	que em praticamente todas as minhas experiências profissionais utilizei em ao menos algum projeto. 
+	
+	3 - PASTA (teste_jquery_matheus_thibau)
+	
+	4 - PASTA (teste_php_matheus_thibau)
+	
+	
+	
+	
+	
+	
